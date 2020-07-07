@@ -9,6 +9,6 @@
   "author": "MiffTheFox",
   "license": "GPL-3.0",
   "dependencies": {
-    "electron": "^1.4.1"
+    "electron": "^9.1.0"
   }
 }
